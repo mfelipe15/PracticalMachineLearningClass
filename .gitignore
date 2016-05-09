@@ -1,2 +1,8 @@
 *.ipynb_checkpoints
 *~
+
+*.csv
+
+exercises/14-Kaggle Competition3.ipynb
+
+exercises/14-Kaggle Competition2.ipynb
